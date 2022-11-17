@@ -2,24 +2,24 @@
   "produits": [
       {
           "id": 1,
-          "name": "bitcoin"
+          "name": "Bitcoin"
           
       },
       {
           "id": 2,
-          "name": "solana"
+          "name": "Solana"
       },
       {
           "id": 3,
-          "name": "ethereum"
+          "name": "Ethereum"
       },
       {
           "id": 4,
-          "name": "cardano"
+          "name": "Cardano"
       },
       {
           "id": 5,
-          "name": "dogecoin"
+          "name": "XRP"
       },         
       {
           "id": 6,
