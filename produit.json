@@ -1,0 +1,34 @@
+{
+  "produits": [
+      {
+          "id": 1,
+          "name": "bitcoin"
+          
+      },
+      {
+          "id": 2,
+          "name": "solana"
+      },
+      {
+          "id": 3,
+          "name": "ethereum"
+      },
+      {
+          "id": 4,
+          "name": "cardano"
+      },
+      {
+          "id": 5,
+          "name": "dogecoin"
+      },         
+      {
+          "id": 6,
+          "name":"BNB"
+      },  
+      {
+          "id": 7,
+          "name":"Dodge"
+      }
+  ]
+
+}
