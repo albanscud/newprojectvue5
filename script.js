@@ -23,3 +23,5 @@ createApp({
       .then((response) => (this.produits = response.data.produits));
   },
 }).mount("#app");
+
+
